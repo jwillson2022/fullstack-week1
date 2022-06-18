@@ -4,3 +4,10 @@ function multiply(a, b){
 }
 
 multiply(3,4);
+
+
+function text(){
+  console.log("hello");  
+}
+
+text();
